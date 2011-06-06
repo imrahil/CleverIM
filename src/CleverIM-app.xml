@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8" standalone="no"?>
+<application xmlns="http://ns.adobe.com/air/application/2.6">
+	<id>CleverIM</id>
+	<filename>CleverIM</filename>
+	<name>CleverIM</name>
+	<versionNumber>0.0.1</versionNumber>
+	<copyright>Copyright © 2011 Jarek Szczepanski</copyright>
+
+	<initialWindow>
+		<content>CleverIM.swf</content>
+		<autoOrients>false</autoOrients>
+        <fullScreen>false</fullScreen>
+        <visible>false</visible>
+	</initialWindow>
+</application>
